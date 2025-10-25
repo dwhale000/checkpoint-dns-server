@@ -9,18 +9,17 @@ upstream:
 
 # Blocklist configuration
 blocking:
-  # CUSTOM BLOCKLIST - Replace URL with your own!
+  # CUSTOM BLOCKLIST - Maintained in this repo!
   blackLists:
     gambling:
-      # YOUR CUSTOM BLOCKLIST URL (GitHub Gist, GitHub repo, or any public URL)
-      # Format: one domain per line (e.g., "bet365.com")
-      - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/gambling.txt
+      # YOUR custom gambling blocklist (edit gambling-blocklist.txt)
+      - https://raw.githubusercontent.com/dwhale000/checkpoint-dns-server/main/gambling-blocklist.txt
 
-      # TO USE YOUR OWN:
-      # 1. Create GitHub Gist with your gambling domains (one per line)
-      # 2. Get the "Raw" URL
-      # 3. Replace the URL above
-      # 4. Redeploy: flyctl deploy
+      # TO UPDATE:
+      # 1. Edit gambling-blocklist.txt locally
+      # 2. git commit -am "Updated blocklist"
+      # 3. git push
+      # 4. flyctl deploy (or wait 4 hours for auto-refresh)
 
   # Apply gambling blocklist to ALL clients
   clientGroupsBlock:
