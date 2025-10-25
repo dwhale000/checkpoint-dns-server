@@ -1,0 +1,41 @@
+# Fly.io deployment configuration for Checkpoint DNS
+
+app = "checkpoint-dns"
+primary_region = "iad"  # US East (Virginia) - change if needed
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  # No environment variables needed
+
+# HTTPS service for DNS-over-HTTPS (DoH)
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]
+
+  [services.concurrency]
+    type = "connections"
+    hard_limit = 1000
+    soft_limit = 500
+
+# Optional: Traditional DNS over UDP (port 53)
+# Uncomment if you want to support regular DNS queries
+# [[services]]
+#   internal_port = 53
+#   protocol = "udp"
+#
+#   [[services.ports]]
+#     port = 53
+
+# Health check
+[[services.http_checks]]
+  interval = "30s"
+  timeout = "5s"
+  grace_period = "10s"
+  method = "GET"
+  path = "/"

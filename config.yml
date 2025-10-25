@@ -1,0 +1,73 @@
+# Blocky DNS Server Configuration
+# Blocks gambling websites using custom blocklist
+
+# Upstream DNS servers (where to forward allowed queries)
+upstream:
+  default:
+    - 1.1.1.1  # Cloudflare
+    - 8.8.8.8  # Google DNS
+
+# Blocklist configuration
+blocking:
+  # CUSTOM BLOCKLIST - Replace URL with your own!
+  blackLists:
+    gambling:
+      # YOUR CUSTOM BLOCKLIST URL (GitHub Gist, GitHub repo, or any public URL)
+      # Format: one domain per line (e.g., "bet365.com")
+      - https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/gambling.txt
+
+      # TO USE YOUR OWN:
+      # 1. Create GitHub Gist with your gambling domains (one per line)
+      # 2. Get the "Raw" URL
+      # 3. Replace the URL above
+      # 4. Redeploy: flyctl deploy
+
+  # Apply gambling blocklist to ALL clients
+  clientGroupsBlock:
+    default:
+      - gambling
+
+  # What to return for blocked domains
+  blockType: zeroIp  # Returns 0.0.0.0 for IPv4, :: for IPv6
+
+  # Enable blocking
+  loading:
+    downloads:
+      timeout: 60s
+      attempts: 5
+      cooldown: 10s
+
+  # How often to refresh the blocklist
+  refreshPeriod: 4h
+
+# Ports configuration
+ports:
+  dns: 53      # Standard DNS port
+  http: 8080   # HTTP port for DoH
+  https: 443   # HTTPS port for DoH (DNS-over-HTTPS)
+
+# Logging
+log:
+  level: info
+  format: text
+  timestamp: true
+
+# Enable query logging - shows BLOCKED queries
+queryLog:
+  type: console
+  target: stdout
+  logRetentionDays: 0
+  fields:
+    - clientIP
+    - clientName
+    - responseReason
+    - responseAnswer
+    - question
+    - duration
+
+# Enable prometheus metrics (optional)
+prometheus:
+  enable: false
+
+# Bootstrap DNS (used to resolve blocklist URLs)
+bootstrapDns: tcp+udp:1.1.1.1

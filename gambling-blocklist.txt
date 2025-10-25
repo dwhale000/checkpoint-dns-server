@@ -1,0 +1,59 @@
+# Checkpoint DNS - Gambling Blocklist
+# Maintained by David Whelan
+# Last updated: 2024-10-24
+#
+# Format: One domain per line (no wildcards needed)
+# Blocky will block both the domain and all subdomomains
+#
+# Example: blocking "bet365.com" will also block "www.bet365.com", "mobile.bet365.com", etc.
+
+# Major Sports Betting Sites
+bet365.com
+draftkings.com
+fanduel.com
+caesars.com
+betmgm.com
+pointsbet.com
+barstoolsportsbook.com
+williamhill.com
+unibet.com
+foxbet.com
+
+# Poker Sites
+pokerstars.com
+888poker.com
+partypoker.com
+pokerstarscasino.com
+acr.poker
+
+# Offshore/Unregulated
+bovada.lv
+mybookie.ag
+betonline.ag
+sportsbetting.ag
+xbet.ag
+heritage sports.eu
+bookmaker.eu
+
+# Casino Sites
+stake.com
+casino.com
+betway.com
+888casino.com
+spin casino.com
+leovegas.com
+casumo.com
+jackpotcity.com
+
+# Daily Fantasy Sports
+prizepicks.com
+underdog.com
+sleeper.com
+
+# Crypto Gambling
+stake.us
+rollbit.com
+roobet.com
+
+# Add your own domains below:
+# yourdomain.com
