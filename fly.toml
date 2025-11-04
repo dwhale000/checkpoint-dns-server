@@ -23,19 +23,19 @@ primary_region = "iad"  # US East (Virginia) - change if needed
     hard_limit = 1000
     soft_limit = 500
 
-  # Health check (only for HTTPS service)
-  [[services.http_checks]]
-    interval = "30s"
-    timeout = "5s"
-    grace_period = "10s"
-    method = "GET"
-    path = "/"
+# Optional: Traditional DNS over UDP (port 53)
+# Uncomment if you want to support regular DNS queries
+# [[services]]
+#   internal_port = 53
+#   protocol = "udp"
+#
+#   [[services.ports]]
+#     port = 53
 
-# Traditional DNS over UDP (port 53)
-# No health checks for UDP service
-[[services]]
-  internal_port = 53
-  protocol = "udp"
-
-  [[services.ports]]
-    port = 53
+# Health check
+[[services.http_checks]]
+  interval = "30s"
+  timeout = "5s"
+  grace_period = "10s"
+  method = "GET"
+  path = "/"
