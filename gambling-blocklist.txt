@@ -1,59 +1,98 @@
 # Checkpoint DNS - Gambling Blocklist
 # Maintained by David Whelan
-# Last updated: 2024-10-24
+# Last updated: 2025-11-04
 #
-# Format: One domain per line (no wildcards needed)
-# Blocky will block both the domain and all subdomomains
+# Format: Domain + wildcard for subdomains (two entries per site)
+# Each domain needs both entries to block the main domain AND all subdomains
 #
-# Example: blocking "bet365.com" will also block "www.bet365.com", "mobile.bet365.com", etc.
+# Example: blocking "bet365.com" requires both:
+#   bet365.com          (blocks the main domain)
+#   *.bet365.com        (blocks all subdomains like www.bet365.com, mobile.bet365.com, etc.)
 
 # Major Sports Betting Sites
 bet365.com
+*.bet365.com
 draftkings.com
+*.draftkings.com
 fanduel.com
+*.fanduel.com
 caesars.com
+*.caesars.com
 betmgm.com
+*.betmgm.com
 pointsbet.com
+*.pointsbet.com
 barstoolsportsbook.com
+*.barstoolsportsbook.com
 williamhill.com
+*.williamhill.com
 unibet.com
+*.unibet.com
 foxbet.com
+*.foxbet.com
 
 # Poker Sites
 pokerstars.com
+*.pokerstars.com
 888poker.com
+*.888poker.com
 partypoker.com
+*.partypoker.com
 pokerstarscasino.com
+*.pokerstarscasino.com
 acr.poker
+*.acr.poker
 
 # Offshore/Unregulated
 bovada.lv
+*.bovada.lv
 mybookie.ag
+*.mybookie.ag
 betonline.ag
+*.betonline.ag
 sportsbetting.ag
+*.sportsbetting.ag
 xbet.ag
-heritage sports.eu
+*.xbet.ag
+heritagesports.eu
+*.heritagesports.eu
 bookmaker.eu
+*.bookmaker.eu
 
 # Casino Sites
 stake.com
+*.stake.com
 casino.com
+*.casino.com
 betway.com
+*.betway.com
 888casino.com
-spin casino.com
+*.888casino.com
+spincasino.com
+*.spincasino.com
 leovegas.com
+*.leovegas.com
 casumo.com
+*.casumo.com
 jackpotcity.com
+*.jackpotcity.com
 
 # Daily Fantasy Sports
 prizepicks.com
+*.prizepicks.com
 underdog.com
+*.underdog.com
 sleeper.com
+*.sleeper.com
 
 # Crypto Gambling
 stake.us
+*.stake.us
 rollbit.com
+*.rollbit.com
 roobet.com
+*.roobet.com
 
-# Add your own domains below:
-# yourdomain.com
+# Add your own domains below (remember to add both domain and *.domain):
+# example.com
+# *.example.com
