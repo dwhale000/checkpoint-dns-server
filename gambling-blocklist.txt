@@ -141,6 +141,22 @@ ownersbox.com
 fliff.com
 *.fliff.com
 
+# Social Casinos & Sweepstakes
+withyotta.com
+*.withyotta.com
+slotomania.com
+*.slotomania.com
+jackpot-world.com
+*.jackpot-world.com
+productmadness.com
+*.productmadness.com
+sciplay.com
+*.sciplay.com
+goldennuggetcasino.com
+*.goldennuggetcasino.com
+dkhorse.com
+*.dkhorse.com
+
 # Add your own domains below (remember to add both domain and *.domain):
 # example.com
 # *.example.com
