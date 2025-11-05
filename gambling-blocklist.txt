@@ -24,12 +24,30 @@ pointsbet.com
 *.pointsbet.com
 barstoolsportsbook.com
 *.barstoolsportsbook.com
+barstoolsports.com
+*.barstoolsports.com
 williamhill.com
 *.williamhill.com
 unibet.com
 *.unibet.com
 foxbet.com
 *.foxbet.com
+betrivers.com
+*.betrivers.com
+fanatics.com
+*.fanatics.com
+espnbet.com
+*.espnbet.com
+hardrockbet.com
+*.hardrockbet.com
+borgata.com
+*.borgata.com
+sugarhouse.com
+*.sugarhouse.com
+tipico.com
+*.tipico.com
+thescore.com
+*.thescore.com
 
 # Poker Sites
 pokerstars.com
