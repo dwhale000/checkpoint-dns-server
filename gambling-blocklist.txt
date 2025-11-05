@@ -1,6 +1,6 @@
 # Checkpoint DNS - Gambling Blocklist
 # Maintained by David Whelan
-# Last updated: 2025-11-04
+# Last updated: 2025-11-05
 #
 # Format: Domain + wildcard for subdomains (two entries per site)
 # Each domain needs both entries to block the main domain AND all subdomains
@@ -92,6 +92,36 @@ rollbit.com
 *.rollbit.com
 roobet.com
 *.roobet.com
+betwhale.com
+*.betwhale.com
+luckyblock.com
+*.luckyblock.com
+megadice.com
+*.megadice.com
+jackbit.com
+*.jackbit.com
+cafecasino.com
+*.cafecasino.com
+
+# Prediction Markets
+polymarket.com
+*.polymarket.com
+kalshi.com
+*.kalshi.com
+predictit.org
+*.predictit.org
+
+# Social/Sweepstakes Betting
+rebet.app
+*.rebet.app
+
+# DFS/Pick'em Sites
+betrpicks.com
+*.betrpicks.com
+ownersbox.com
+*.ownersbox.com
+fliff.com
+*.fliff.com
 
 # Add your own domains below (remember to add both domain and *.domain):
 # example.com
