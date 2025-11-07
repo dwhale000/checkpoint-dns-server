@@ -140,6 +140,10 @@ ownersbox.com
 *.ownersbox.com
 fliff.com
 *.fliff.com
+cheddr.xyz
+*.cheddr.xyz
+underdogfantasy.com
+*.underdogfantasy.com
 
 # Social Casinos & Sweepstakes
 withyotta.com
