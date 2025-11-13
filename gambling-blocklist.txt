@@ -161,6 +161,23 @@ goldennuggetcasino.com
 dkhorse.com
 *.dkhorse.com
 
-# Add your own domains below (remember to add both domain and *.domain):
-# example.com
-# *.example.com
+.vegascasinoonline.eu
+*.vegascasinoonline.eu
+onlinecasinogames.com
+*.onlinecasinogames.com
+duckyluck.ag
+*.duckyluck.ag
+slotocash.im
+*.slotocash.im
+theonlinecasino.com
+*.theonlinecasino.com
+buffalocasino.com
+*.buffalocasino.com
+blacklotuscasino.com
+*.blacklotuscasino.com
+luckyredcasino.com
+*.luckyredcasino.com
+ragingbullslotscampaign.com
+*.ragingbullslotscampaign.com
+betwhale.ag
+*.betwhale.ag
