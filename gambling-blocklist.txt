@@ -181,3 +181,7 @@ ragingbullslotscampaign.com
 *.ragingbullslotscampaign.com
 betwhale.ag
 *.betwhale.ag
+getfliff.com
+*.getfliff.com
+borgataonline.com
+*.borgataonline.com
