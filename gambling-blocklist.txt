@@ -185,3 +185,7 @@ getfliff.com
 *.getfliff.com
 borgataonline.com
 *.borgataonline.com
+casino.betfair.com
+*.casino.betfair.com
+betfair.com
+*.betfair.com
