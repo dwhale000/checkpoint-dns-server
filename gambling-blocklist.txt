@@ -1,15 +1,7 @@
 # Checkpoint DNS - Gambling Blocklist
-# Maintained by David Whelan
-# Last updated: 2025-11-05
-#
-# Format: Domain + wildcard for subdomains (two entries per site)
-# Each domain needs both entries to block the main domain AND all subdomains
-#
-# Example: blocking "bet365.com" requires both:
-#   bet365.com          (blocks the main domain)
-#   *.bet365.com        (blocks all subdomains like www.bet365.com, mobile.bet365.com, etc.)
+# Maintained by David 
+# Last updated: 2025-11-15
 
-# Major Sports Betting Sites
 bet365.com
 *.bet365.com
 draftkings.com
@@ -48,8 +40,6 @@ tipico.com
 *.tipico.com
 thescore.com
 *.thescore.com
-
-# Poker Sites
 pokerstars.com
 *.pokerstars.com
 888poker.com
@@ -60,8 +50,6 @@ pokerstarscasino.com
 *.pokerstarscasino.com
 acr.poker
 *.acr.poker
-
-# Offshore/Unregulated
 bovada.lv
 *.bovada.lv
 mybookie.ag
@@ -76,8 +64,6 @@ heritagesports.eu
 *.heritagesports.eu
 bookmaker.eu
 *.bookmaker.eu
-
-# Casino Sites
 stake.com
 *.stake.com
 casino.com
@@ -94,16 +80,12 @@ casumo.com
 *.casumo.com
 jackpotcity.com
 *.jackpotcity.com
-
-# Daily Fantasy Sports
 prizepicks.com
 *.prizepicks.com
 underdog.com
 *.underdog.com
 sleeper.com
 *.sleeper.com
-
-# Crypto Gambling
 stake.us
 *.stake.us
 rollbit.com
@@ -120,20 +102,14 @@ jackbit.com
 *.jackbit.com
 cafecasino.com
 *.cafecasino.com
-
-# Prediction Markets
 polymarket.com
 *.polymarket.com
 kalshi.com
 *.kalshi.com
 predictit.org
 *.predictit.org
-
-# Social/Sweepstakes Betting
 rebet.app
 *.rebet.app
-
-# DFS/Pick'em Sites
 betrpicks.com
 *.betrpicks.com
 ownersbox.com
@@ -144,8 +120,6 @@ cheddr.xyz
 *.cheddr.xyz
 underdogfantasy.com
 *.underdogfantasy.com
-
-# Social Casinos & Sweepstakes
 withyotta.com
 *.withyotta.com
 slotomania.com
@@ -160,7 +134,6 @@ goldennuggetcasino.com
 *.goldennuggetcasino.com
 dkhorse.com
 *.dkhorse.com
-
 .vegascasinoonline.eu
 *.vegascasinoonline.eu
 onlinecasinogames.com
