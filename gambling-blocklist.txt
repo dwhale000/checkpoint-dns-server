@@ -218,4 +218,5 @@ scratchoutespace.com
 *.scratchoutespace.com
 scratchgocartoon.com
 *.scratchgocartoon.com 
-
+rainbet.com
+*.rainbet.com
