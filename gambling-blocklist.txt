@@ -8093,3 +8093,9 @@ zz883.com.br
 zz996.com.br
 zzzbets.com.br
 zzzzbet.com.br
+speedsweeps.com
+*.speedsweeps.com
+caliente.mx
+*.caliente.mx
+betmode.io
+*.betmode.io
