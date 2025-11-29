@@ -8099,3 +8099,13 @@ caliente.mx
 *.caliente.mx
 betmode.io
 *.betmode.io
+1x-singa.com
+*.1x-singa.com
+gem-sg.com
+*.gem-sg.com
+caliente.com
+*.caliente.com
+playdoit.com
+*.playdoit.com
+draftea.com
+*.draftea.com
