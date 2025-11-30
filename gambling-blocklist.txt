@@ -8109,3 +8109,5 @@ playdoit.com
 *.playdoit.com
 draftea.com
 *.draftea.com
+gembet88.asia
+*.gembet88.asia
