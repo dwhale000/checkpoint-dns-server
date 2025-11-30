@@ -8111,3 +8111,5 @@ draftea.com
 *.draftea.com
 gembet88.asia
 *.gembet88.asia
+bigo.tv
+*.bigo.tv
