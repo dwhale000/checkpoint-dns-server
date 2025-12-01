@@ -8113,3 +8113,5 @@ gembet88.asia
 *.gembet88.asia
 bigo.tv
 *.bigo.tv
+ace.com
+*ace.com
