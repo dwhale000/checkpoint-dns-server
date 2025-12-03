@@ -8115,3 +8115,5 @@ bigo.tv
 *.bigo.tv
 ace.com
 *ace.com
+gambulls.com
+*.gambulls.com
