@@ -8117,3 +8117,9 @@ ace.com
 *ace.com
 gambulls.com
 *.gambulls.com
+ltccasino.io
+*.ltccasino.io
+respin.com
+*.respin.com
+winna.com
+*.winna.com
