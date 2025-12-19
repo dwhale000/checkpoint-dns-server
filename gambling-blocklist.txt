@@ -8123,3 +8123,9 @@ respin.com
 *.respin.com
 winna.com
 *.winna.com
+luckyones.com
+*.luckyones.com
+jackpota.com
+*.jackpota.com
+mcluck.com
+*.mcluck.com
