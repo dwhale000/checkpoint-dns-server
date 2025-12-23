@@ -8129,3 +8129,9 @@ jackpota.com
 *.jackpota.com
 mcluck.com
 *.mcluck.com
+fortunecoins.com
+*.fortunecoins.com
+spinquest.com
+*.spinquest.com
+sweetsweeps.com
+*.sweetsweeps.com
