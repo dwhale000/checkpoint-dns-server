@@ -8135,3 +8135,5 @@ spinquest.com
 *.spinquest.com
 sweetsweeps.com
 *.sweetsweeps.com
+duel.com
+*.duel.com
