@@ -8137,3 +8137,7 @@ sweetsweeps.com
 *.sweetsweeps.com
 duel.com
 *.duel.com
+rolla.com
+*.rolla.com
+bet23legends.com
+*.bet23legends.com
