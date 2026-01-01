@@ -8143,3 +8143,11 @@ bet23legends.com
 *.bet23legends.com
 playbvx.lv
 *.playbvx.lv
+wildcasino.ag
+*.wildcasino.ag
+superslots.ag
+*.superslots.ag
+ignition.com
+*.ignition.com
+cafecasino.lv
+*.cafecasino.lv
