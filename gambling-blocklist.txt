@@ -8151,3 +8151,5 @@ ignition.com
 *.ignition.com
 cafecasino.lv
 *.cafecasino.lv
+betonline.com
+*.betonline.com
