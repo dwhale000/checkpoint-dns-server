@@ -8141,3 +8141,5 @@ rolla.com
 *.rolla.com
 bet23legends.com
 *.bet23legends.com
+playbvx.lv
+*.playbvx.lv
