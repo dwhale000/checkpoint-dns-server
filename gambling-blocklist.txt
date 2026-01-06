@@ -8153,3 +8153,11 @@ cafecasino.lv
 *.cafecasino.lv
 betonline.com
 *.betonline.com
+bet105.ag
+*.bet105.ag
+lotto.jackpot.com
+*.lotto.jackpot.com
+infinitefoodevents.com
+*.infinitefoodevents.com
+playgoldie.com
+*.playgoldie.com
