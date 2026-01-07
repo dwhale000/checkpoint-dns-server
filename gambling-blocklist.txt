@@ -8161,3 +8161,5 @@ infinitefoodevents.com
 *.infinitefoodevents.com
 playgoldie.com
 *.playgoldie.com
+nclottery.com
+*.nclottery.com
