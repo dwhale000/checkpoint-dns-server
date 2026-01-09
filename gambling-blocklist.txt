@@ -8163,3 +8163,5 @@ playgoldie.com
 *.playgoldie.com
 nclottery.com
 *.nclottery.com
+mynitro.io
+*.mynitro.io
