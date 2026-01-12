@@ -8187,3 +8187,5 @@ bankrolla.com
 *.bankrolla.com
 sweepjungle.com
 *.sweepjungle.com
+rocketriches.com
+*.rocketriches.com
