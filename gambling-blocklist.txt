@@ -8189,3 +8189,7 @@ sweepjungle.com
 *.sweepjungle.com
 rocketriches.com
 *.rocketriches.com
+bets.io
+*.bets.io
+metawin.com
+*.metawin.com
