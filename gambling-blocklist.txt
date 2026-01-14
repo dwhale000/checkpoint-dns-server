@@ -8193,3 +8193,5 @@ bets.io
 *.bets.io
 metawin.com
 *.metawin.com
+vulkanvegas929.com
+*.vulkanvegas929.com
