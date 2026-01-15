@@ -8195,3 +8195,7 @@ metawin.com
 *.metawin.com
 vulkanvegas929.com
 *.vulkanvegas929.com
+tracksino.com
+*.tracksino.com
+casino.org
+*.casino.org
