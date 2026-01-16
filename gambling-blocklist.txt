@@ -8199,3 +8199,7 @@ tracksino.com
 *.tracksino.com
 casino.org
 *.casino.org
+phtaya.com
+*.phtaya.com
+phtaya.ph
+*.phtaya.ph
