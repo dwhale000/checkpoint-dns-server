@@ -8203,3 +8203,5 @@ phtaya.com
 *.phtaya.com
 phtaya.ph
 *.phtaya.ph
+igamingontario.ca
+*.igamingontario.ca
