@@ -8205,3 +8205,5 @@ phtaya.ph
 *.phtaya.ph
 igamingontario.ca
 *.igamingontario.ca
+betvictor.ca
+*.betvictor.ca
