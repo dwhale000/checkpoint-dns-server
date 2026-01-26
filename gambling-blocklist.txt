@@ -8225,3 +8225,7 @@ rubyfortunecasino.com
 *.888casino.com
 888-casino.ca
 *.888-casino.ca
+luck.io
+*.luck.io
+wild.io
+*.wild.io
