@@ -8251,3 +8251,5 @@ busr.ag
 *.busr.ag
 needforslots.com
 *.needforslots.com
+jumbo88.com  
+*.jumbo88.com  
