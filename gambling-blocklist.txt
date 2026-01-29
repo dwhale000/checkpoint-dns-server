@@ -8253,3 +8253,5 @@ needforslots.com
 *.needforslots.com
 jumbo88.com  
 *.jumbo88.com  
+sportbet.one
+*.sportbet.one
