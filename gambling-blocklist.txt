@@ -8257,3 +8257,11 @@ sportbet.one
 *.sportbet.one
 scoop.com
 *.scoop.com
+gleamingcasino.com
+*.gleamingcasino.com
+jackpotgo.com
+*.jackpotgo.com
+lavishluck.net
+*.lavishluck.net
+spinblitz.com
+*.spinblitz.com
