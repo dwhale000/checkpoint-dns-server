@@ -8265,3 +8265,11 @@ lavishluck.net
 *.lavishluck.net
 spinblitz.com
 *.spinblitz.com
+6bet.com
+*.6bet.com
+casinoplus.com
+*.casinoplus.com
+casinoplus.ph
+*.casinoplus.ph
+hotelstotsenberg.com
+*.hotelstotsenberg.com
