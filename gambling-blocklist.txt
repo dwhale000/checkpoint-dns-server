@@ -8273,3 +8273,5 @@ casinoplus.ph
 *.casinoplus.ph
 hotelstotsenberg.com
 *.hotelstotsenberg.com
+holyluck2.com
+*.holyluck2.com
