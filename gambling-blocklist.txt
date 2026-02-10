@@ -8275,3 +8275,15 @@ hotelstotsenberg.com
 *.hotelstotsenberg.com
 holyluck2.com
 *.holyluck2.com
+chance.cz
+*.chance.cz
+synottip.cz
+*.synottip.cz
+ifortuna.cz
+*.ifortuna.cz
+luxpay.ltd
+*.luxpay.ltd
+spinarena.net
+*.spinarena.net
+sweepnext.com
+*.sweepnext.com
