@@ -8287,3 +8287,5 @@ spinarena.net
 *.spinarena.net
 sweepnext.com
 *.sweepnext.com
+polycasino.com
+*.polycasino.com
