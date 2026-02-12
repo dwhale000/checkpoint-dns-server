@@ -8289,3 +8289,9 @@ sweepnext.com
 *.sweepnext.com
 polycasino.com
 *.polycasino.com
+winkel.toto.nl
+*.winkel.toto.nl
+nederlandseloterij.nl
+*.nederlandseloterij.nl
+toto.nl
+*.toto.nl
