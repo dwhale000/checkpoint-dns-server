@@ -8295,3 +8295,9 @@ nederlandseloterij.nl
 *.nederlandseloterij.nl
 toto.nl
 *.toto.nl
+spinorhino1.com
+*.spinorhino1.com
+lobby.play.sweepspot.com
+*.lobby.play.sweepspot.com
+sweepspot.com
+*.sweepspot.com
