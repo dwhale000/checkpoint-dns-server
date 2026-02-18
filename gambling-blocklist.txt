@@ -8301,3 +8301,11 @@ lobby.play.sweepspot.com
 *.lobby.play.sweepspot.com
 sweepspot.com
 *.sweepspot.com
+gospinorhino.com
+*.gospinorhino.com
+spinorhino.com
+*.spinorhino.com
+spinorhino2.com
+*.spinorhino2.com
+betory.com
+*.betory.com
