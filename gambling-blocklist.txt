@@ -8309,3 +8309,9 @@ spinorhino2.com
 *.spinorhino2.com
 betory.com
 *.betory.com
+hellspin.com
+*.hellspin.com
+bitstarz.com
+*.bitstarz.com
+totalcasino.pl
+*.totalcasino.pl
