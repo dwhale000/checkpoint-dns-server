@@ -25,12 +25,12 @@ primary_region = "iad"  # US East (Virginia) - change if needed
 
 # Optional: Traditional DNS over UDP (port 53)
 # Uncomment if you want to support regular DNS queries
-# [[services]]
-#   internal_port = 53
-#   protocol = "udp"
-#
-#   [[services.ports]]
-#     port = 53
+[[services]]
+  internal_port = 53
+  protocol = "udp"
+
+  [[services.ports]]
+    port = 53
 
 # Health check
 [[services.http_checks]]
