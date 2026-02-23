@@ -8315,3 +8315,5 @@ bitstarz.com
 *.bitstarz.com
 totalcasino.pl
 *.totalcasino.pl
+luckywave.com
+*.luckywave.com
