@@ -8317,3 +8317,9 @@ totalcasino.pl
 *.totalcasino.pl
 luckywave.com
 *.luckywave.com
+solpump.io
+*.solpump.io
+rugs.io
+*.rugs.io
+realprize.com
+*.realprize.com
