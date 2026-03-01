@@ -8323,3 +8323,5 @@ rugs.io
 *.rugs.io
 realprize.com
 *.realprize.com
+byno.bet
+*.byno.bet
