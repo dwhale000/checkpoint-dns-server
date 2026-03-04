@@ -8325,3 +8325,7 @@ realprize.com
 *.realprize.com
 byno.bet
 *.byno.bet
+case-battle.tv
+*.case-battle.tv
+topskin.net
+*.topskin.net
