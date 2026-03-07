@@ -8329,3 +8329,5 @@ case-battle.tv
 *.case-battle.tv
 topskin.net
 *.topskin.net
+upgrader.pro
+*.upgrader.pro
