@@ -8331,3 +8331,7 @@ topskin.net
 *.topskin.net
 upgrader.pro
 *.upgrader.pro
+wintari.com
+*.wintari.com
+gamdom.com
+*.gamdom.com
