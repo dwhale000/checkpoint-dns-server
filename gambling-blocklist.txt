@@ -8423,3 +8423,15 @@ playslota.com
 *.playslota.com
 casoola2.com
 *.casoola2.com
+playtana.com
+*.playtana.com
+zulacasino.com
+*.zulacasino.com
+topskin.vin
+*.topskin.vin
+action3.gameassists.co.uk
+*.action3.gameassists.co.uk
+koko.bet
+*.koko.bet
+mrgoodwin.com
+*.mrgoodwin.com
