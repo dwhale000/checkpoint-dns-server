@@ -8435,3 +8435,5 @@ koko.bet
 *.koko.bet
 mrgoodwin.com
 *.mrgoodwin.com
+Case-battle.us
+*.Case-battle.us
