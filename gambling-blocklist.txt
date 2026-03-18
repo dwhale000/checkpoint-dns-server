@@ -8437,3 +8437,7 @@ mrgoodwin.com
 *.mrgoodwin.com
 Case-battle.us
 *.Case-battle.us
+optimafluxoria.com
+*.optimafluxoria.com
+8bet-match.org
+*.8bet-match.org
