@@ -8441,3 +8441,11 @@ optimafluxoria.com
 *.optimafluxoria.com
 8bet-match.org
 *.8bet-match.org
+bet99.com
+*.bet99.com
+wildspademasters.com
+*.wildspademasters.com
+dinodrop.org
+*.dinodrop.org
+gameassists.co.uk
+*.gameassists.co.uk
