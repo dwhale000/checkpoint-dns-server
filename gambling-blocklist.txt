@@ -8471,3 +8471,9 @@ legiano-1312.com
 *.legiano-1312.com
 spinbara-6190.com
 *.spinbara-6190.com
+robocat-8787.com
+*.robocat-8787.com
+case-battle.ws
+*.case-battle.ws
+wildtokyo58.com
+*.wildtokyo58.com
