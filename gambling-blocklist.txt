@@ -8477,3 +8477,9 @@ case-battle.ws
 *.case-battle.ws
 wildtokyo58.com
 *.wildtokyo58.com
+hellspin718.com
+*.hellspin718.com
+9bet-match.win
+*.9bet-match.win
+grana-winz.net
+*.grana-winz.net
