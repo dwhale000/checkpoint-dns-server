@@ -8499,3 +8499,9 @@ veikkaus.fi
 *.veikkaus.fi
 betsafe.lv
 *.betsafe.lv
+freespinz.com
+*.freespinz.com
+freespinz-online.com
+*.freespinz-online.com
+free-spinz.bet
+*.free-spinz.bet
