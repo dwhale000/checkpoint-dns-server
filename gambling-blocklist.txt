@@ -8505,3 +8505,17 @@ freespinz-online.com
 *.freespinz-online.com
 free-spinz.bet
 *.free-spinz.bet
+asvla.com
+*.asvla.com
+case-battle.red
+*.case-battle.red
+b2pay.online
+*.b2pay.online
+europebet.com
+*.europebet.com
+betlive.com
+*.betlive.com
+adjarabet.com
+*.adjarabet.com
+liderbet.com
+*.liderbet.com
