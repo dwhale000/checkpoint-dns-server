@@ -8519,3 +8519,5 @@ adjarabet.com
 *.adjarabet.com
 liderbet.com
 *.liderbet.com
+luckyones2.com
+*.luckyones2.com
