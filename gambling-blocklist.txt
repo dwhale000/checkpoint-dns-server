@@ -8527,7 +8527,7 @@ bloxflip.com
 *.bloxflip.com
 diceblox.com
 *.diceblox.com
-Royalsea.com
-*.Royalsea.com
-Betmatch.hu
-*.Betmatch.hu
+royalsea.com
+*.royalsea.com
+betmatch.hu
+*.betmatch.hu
