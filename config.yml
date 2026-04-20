@@ -36,7 +36,7 @@ blocking:
       cooldown: 10s
 
   # How often to refresh the blocklist
-  refreshPeriod: 4h
+  refreshPeriod: 1h
 
 # Ports configuration
 ports:
