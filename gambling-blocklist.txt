@@ -8521,3 +8521,9 @@ liderbet.com
 *.liderbet.com
 luckyones2.com
 *.luckyones2.com
+goldpump.com
+*.goldpump.com
+bloxflip.com
+*.bloxflip.com
+diceblox.com
+*.diceblox.com

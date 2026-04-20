@@ -9,7 +9,7 @@ upstream:
 
 # Blocklist configuration
 blocking:
-  # CUSTOM BLOCKLIST - Maintained in this repo!
+  # CUSTOM BLOCKLIST - maintained in this repo and fetched by Blocky
   blackLists:
     gambling:
       # YOUR custom gambling blocklist (edit gambling-blocklist.txt)
@@ -17,9 +17,8 @@ blocking:
 
       # TO UPDATE:
       # 1. Edit gambling-blocklist.txt locally
-      # 2. git commit -am "Updated blocklist"
-      # 3. git push
-      # 4. flyctl deploy (or wait 4 hours for auto-refresh)
+      # 2. Commit and push the update
+      # 3. Wait for Blocky to refresh it automatically
 
   # Apply gambling blocklist to ALL clients
   clientGroupsBlock:
@@ -44,6 +43,7 @@ ports:
   dns: 53      # Standard DNS port
   http: 8080   # HTTP port for DoH
   https: 443   # HTTPS port for DoH (DNS-over-HTTPS)
+  dohPath: /dns-query
 
 # Logging
 log:
@@ -68,5 +68,5 @@ queryLog:
 prometheus:
   enable: false
 
-# Bootstrap DNS (used to resolve blocklist URLs)
+# Bootstrap DNS (used for external lookups such as upstream resolvers)
 bootstrapDns: tcp+udp:1.1.1.1
