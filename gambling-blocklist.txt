@@ -8531,3 +8531,7 @@ royalsea.com
 *.royalsea.com
 betmatch.hu
 *.betmatch.hu
+casperbets.com
+*.casperbets.com
+needforspin.com
+*.needforspin.com
