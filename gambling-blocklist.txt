@@ -8535,3 +8535,15 @@ casperbets.com
 *.casperbets.com
 needforspin.com
 *.needforspin.com
+bigpirate.com
+*.bigpirate.com
+babacasino.com
+*.babacasino.com
+spindoo.com
+*.spindoo.com
+dorados.com
+*.dorados.com
+spree.com
+*.spree.com
+megabonanza.com
+*.megabonanza.com
