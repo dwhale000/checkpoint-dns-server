@@ -8567,3 +8567,9 @@ moonspin.us
 *.moonspin.us
 spindoo.us
 *.spindoo.us
+sixty6.com
+*.sixty6.com
+sidepot.us
+*.sidepot.us
+zonko.com
+*.zonko.com
