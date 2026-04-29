@@ -8547,3 +8547,17 @@ spree.com
 *.spree.com
 megabonanza.com
 *.megabonanza.com
+acebet.cc
+*.acebet.cc
+thrillzz.com
+*.thrillzz.com
+cidercasino.com
+*.cidercasino.com
+bigshotgames.com
+*.bigshotgames.com
+dexyplay.com
+*.dexyplay.com
+playfame.com
+*.playfame.com
+casino.click
+*.casino.click
