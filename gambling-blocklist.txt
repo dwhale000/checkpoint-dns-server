@@ -8583,3 +8583,5 @@ bangcoins.com
 *.bangcoins.com
 thrillzz.com
 *.thrillzz.com
+myprize.us
+*myprize.us
