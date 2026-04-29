@@ -8561,3 +8561,7 @@ playfame.com
 *.playfame.com
 casino.click
 *.casino.click
+bangcoins.com
+*.bangcoins.com
+moonspin.us
+*.moonspin.us
