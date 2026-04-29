@@ -8565,3 +8565,5 @@ bangcoins.com
 *.bangcoins.com
 moonspin.us
 *.moonspin.us
+spindoo.us
+*.spindoo.us
