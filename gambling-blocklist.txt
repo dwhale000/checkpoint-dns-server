@@ -8605,3 +8605,7 @@ vbet.nl
 *.vbet.nl
 starzino.com
 *.starzino.com
+theboss.us
+*.theboss.us
+slotsgallery.com     
+*.slotsgallery.com     
