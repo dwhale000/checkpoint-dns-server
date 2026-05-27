@@ -8609,3 +8609,5 @@ theboss.us
 *.theboss.us
 slotsgallery.com     
 *.slotsgallery.com     
+paddypower.com
+*.paddypower.com
