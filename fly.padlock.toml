@@ -1,0 +1,36 @@
+# Fly.io deployment for the Padlock (v2 / revamped app) DNS filtering server.
+# Separate app from production `checkpoint-dns`, which keeps serving current
+# users untouched until they update to the new Padlock app build.
+
+app = "padlock-dns"
+primary_region = "iad"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]
+
+  [services.concurrency]
+    type = "connections"
+    hard_limit = 1000
+    soft_limit = 500
+
+  # DoH-only health check, matching the production shape documented in
+  # docs/ARCHITECTURE.md.
+  [[services.tcp_checks]]
+    interval = "30s"
+    timeout = "5s"
+    grace_period = "10s"
+
+[[vm]]
+  memory = "1gb"
+  cpu_kind = "shared"
+  cpus = 1

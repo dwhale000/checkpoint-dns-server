@@ -9,13 +9,15 @@ upstream:
 
 # Blocklist configuration
 blocking:
-  # CUSTOM BLOCKLIST - maintained in this repo and fetched by Blocky
-  blackLists:
+  denylists:
     gambling:
-      # YOUR custom gambling blocklist (edit gambling-blocklist.txt)
+      # 1) Blocklist Project gambling — broad community list (largest coverage).
+      - https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
+
+      # 2) YOUR custom gambling blocklist (edit gambling-blocklist.txt)
       - https://raw.githubusercontent.com/dwhale000/checkpoint-dns-server/main/gambling-blocklist.txt
 
-      # TO UPDATE:
+      # TO UPDATE YOUR LIST:
       # 1. Edit gambling-blocklist.txt locally
       # 2. Commit and push the update
       # 3. Wait for Blocky to refresh it automatically
@@ -30,13 +32,12 @@ blocking:
 
   # Enable blocking
   loading:
+    # How often to refresh the blocklist
+    refreshPeriod: 1h
     downloads:
       timeout: 60s
       attempts: 5
       cooldown: 10s
-
-  # How often to refresh the blocklist
-  refreshPeriod: 1h
 
 # Ports configuration
 ports:
